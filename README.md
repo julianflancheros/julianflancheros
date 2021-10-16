@@ -33,6 +33,12 @@ And more...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Lancheros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/julianflancheros)
 [![Web](https://img.shields.io/badge/My_Website-julianflancheros.js.org-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://julianflancheros.js.org/)
 
+<div align="center">
+  <a href="https://github.com/julianflancheros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianflancheros&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianflancheros&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+
 <div>
  
   ![Snake animation](https://github.com/julianflancheros/julianflancheros/blob/output/github-contribution-grid-snake.svg)
