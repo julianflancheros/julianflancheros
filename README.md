@@ -9,9 +9,32 @@ Since then I have dedicated myself to specializing in mobile application develop
 
 In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free. -->
 
+
+## Know me a little
+
+~~~ javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [HTML, CSS, Javascript, Python, R, Java, Kotlin, PHP, Typescript, SQL],
+   technologies: {
+      frontEnd: {
+         js: ["jQuery, Ajax"],
+         css: ["Bootstrap", "Material Design", "Tailwind"]
+      },
+      backEnd: {
+         java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
+         PHP: ["Codeigniter"],
+         Otras: ["Docker"]
+      },
+      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["I continue training and open for job opportunities"]
+}; 
+~~~
+
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-dc0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-0277bd?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-1f63b6?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
