@@ -53,7 +53,7 @@ And more...
 ## Find me at:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@julianflancheros-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/julianflancheros)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Lancheros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/julianflancheros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_F._Lancheros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/julianflancheros)
 [![Web](https://img.shields.io/badge/My_Website-julianflancheros.js.org-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://julianflancheros.js.org/)
 
 <div align="center">
