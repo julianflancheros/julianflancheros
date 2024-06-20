@@ -1,4 +1,4 @@
-### Hello, my name is Julian Lancheros an apassionate of the programation, design and agricultere 
+### Hello, my name is Julian F. Lancheros an apassionate of the programation, design and agricultere 
 ##
 ![https://github.com/julianflancheros](https://raw.githubusercontent.com/julianflancheros/julianflancheros/master/julianflancheros_github_profile.png)
 
