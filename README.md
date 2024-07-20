@@ -1,25 +1,24 @@
-### Hello, my name is Julian F. Lancheros an apassionate of the programation, design and agricultere 
+### Hello, my name is Julian F. Lancheros an apassionate of the programation, design and agriculture 
 ##
-![https://github.com/julianflancheros](https://raw.githubusercontent.com/julianflancheros/julianflancheros/master/julianflancheros_github_profile.png)
-
+<!--![https://github.com/julianflancheros](https://raw.githubusercontent.com/julianflancheros/julianflancheros/master/julianflancheros_github_profile.png)-->
 <!-- In 2017 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
 Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
 
 In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free. -->
 <!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)-->
 
-<div classs="center">
-   <h3>I'm a agricultural engineering student.</h3>
-   <img height="200" src="https://i.imgflip.com/8xo3m3.gif" />
-      <p>
-         I am a student of Agricultural Engineering at the National University of Colombia and a graduate of Mission TIC at UTP. Currently, I am in the process of specializing in data analysis and have experience in managing Geographic Information Systems (GIS) tools, as well as in creating responsive websites and functional applications for mobile devices.
-      </p>
+<div aling="center">
+   <img align="left" height="150" src="https://i.imgflip.com/8xo3m3.gif" />
+   <div align="right">
+      <h3>I'm a agricultural engineering student in UNAL </h3>
+         <p>
+            I am a student of Agricultural Engineering at the National University of Colombia (UNAL Co) and a graduate of Mission TIC at UTP like Web Development Technician. Currently, I am in the process of specializing in data analysis and have experience in managing Geographic Information Systems (GIS) tools, as well as in creating responsive websites and functional applications for mobile devices.
+         </p>
+   </div>
 </div>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=1000)
 
-###
-## Know me a little
+<h2>Know me a little</h2>
 
 ~~~ javascript
 const aboutMe = {
@@ -41,6 +40,14 @@ const aboutMe = {
    currentOccupation: ["I continue training and open for job opportunities"]
 }; 
 ~~~
+## Listen to music with me:
+<img align="left" height="200" src="https://i.pinimg.com/originals/dd/4d/0a/dd4d0a66143b7e0c809462f0c5bade94.gif" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&redirect=true)
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=400)
+
 
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
