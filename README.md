@@ -8,7 +8,7 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 <!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)-->
 
 <div aling="center">
-   <img align="left" height="150" src="https://i.imgflip.com/8xo3m3.gif" />
+   <img align="left" height="175" src="https://i.imgflip.com/8xo3m3.gif" />
    <div align="right">
       <h3>I'm a agricultural engineering student in UNAL </h3>
          <p>
