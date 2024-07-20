@@ -41,12 +41,14 @@ const aboutMe = {
 }; 
 ~~~
 ## Listen to music with me:
-<img align="left" height="200" src="https://i.pinimg.com/originals/dd/4d/0a/dd4d0a66143b7e0c809462f0c5bade94.gif" />
+<img align="left" height="440" src="https://i.pinimg.com/originals/dd/4d/0a/dd4d0a66143b7e0c809462f0c5bade94.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&redirect=true)
 
+<!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=300)-->
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=400)
+
+
 
 
 ## Skills:
