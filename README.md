@@ -38,18 +38,8 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["I continue training and open for job opportunities"]
-}; 
+};
 ~~~
-## Listen to music with me:
-<img align="left" height="440" src="https://i.pinimg.com/originals/dd/4d/0a/dd4d0a66143b7e0c809462f0c5bade94.gif" />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&redirect=true)
-
-<!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=300)-->
-
-
-
-
 
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
@@ -62,6 +52,16 @@ const aboutMe = {
 [![Qgis](https://img.shields.io/badge/qgis-1f63b6?style=for-the-badge&logo=qgis&logoColor=white&labelColor=101010)]()
 </br>
 And more...
+
+## Listen to music with me:
+<img align="left" height="440" src="https://i.pinimg.com/originals/dd/4d/0a/dd4d0a66143b7e0c809462f0c5bade94.gif" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22uezdnizx5pdgy3jv5r2eoli&redirect=true)
+
+<!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22uezdnizx5pdgy3jv5r2eoli&width=300)-->
+
+
+
 <!-- 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]() 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
