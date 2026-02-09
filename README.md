@@ -22,22 +22,33 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 
 ~~~ javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Python, R, Java, Kotlin, PHP, Typescript, SQL],
+   pronouns: "he/him",
+   role: "AgTech Engineer & Fullstack Developer",
+   code: ["Python", "TypeScript", "Javascript", "Java", "SQL", "R", "Kotlin"],
    technologies: {
-      frontEnd: {
-         js: ["jQuery, Ajax"],
-         css: ["Bootstrap", "Material Design", "Tailwind"]
+      agTech_Geospatial: {
+         gis_platforms: ["ArcGIS", "QGIS", "Google Earth Engine"],
+         spatial_analysis: ["PostGIS", "GeoPandas", "GDAL"],
+         iot_stack: ["MQTT", "LoRaWAN", "Sensors Integration"]
       },
-      backEnd: {
-         java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
-         PHP: ["Codeigniter"],
-         Otras: ["Docker"]
+      fullStack_Development: {
+         frameworks: ["React", "Next.js", "Tailwind CSS"],
+         backend_api: ["Node.js", "FastAPI", "SpringBoot"],
+         testing_tools: ["Postman"]
       },
-      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
-      mobile: ["Android"]
+      backend_as_a_service: {
+         platforms: ["Supabase", "Firebase"]
+      },
+      cloud_DevOps: {
+         providers: ["AWS", "GCP", "Azure"],
+         infrastructure: ["Docker", "Kubernetes", "Terraform"]
+      },
+      databases: {
+         relational: ["PostgreSQL", "MySQL", "Oracle"],
+         noSql: ["MongoDB", "Firestore"]
+      }
    },
-   currentOccupation: ["I continue training and open for job opportunities"]
+   currentOccupation: "Specializing in AgTech Solutions, Cloud Infrastructure, and Geospatial Intelligence"
 };
 ~~~
 
@@ -72,13 +83,25 @@ And more...
 
 [![Instagram](https://img.shields.io/badge/Instagram-@julianflancheros-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/julianflancheros)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_F._Lancheros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/julianflancheros)
-[![Web](https://img.shields.io/badge/My_Website-julianflancheros.js.org-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://julianflancheros.js.org/)
+[![Web](https://img.shields.io/badge/My_Website-julianflancheros.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://julianflancheros.com/)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/julianflancheros">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianflancheros&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianflancheros&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+</div> -->
+
+<picture>
+  <!-- <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=julianflancheros&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=julianflancheros&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=julianflancheros&show_icons=true&theme=dark" />
+</picture>
 
 <div>
  
